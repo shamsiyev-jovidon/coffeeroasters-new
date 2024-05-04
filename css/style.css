@@ -78,8 +78,6 @@ img{
   object-fit: contain;
 }
 
-.sitenav {
-}
 .sitenav-list {
   display: flex;
   align-items: center;
